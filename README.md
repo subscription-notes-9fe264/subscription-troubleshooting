@@ -22,30 +22,30 @@
 <a id="price-comparison"></a>
 ## 2026机场套餐价格对比（按月折算）
 
-本次读取的是人民币月付方案，折合月价等于月付实付金额；未据此推断未展示的年付价格。以下每站取公开展示方案中月付金额最低的一档，按金额升序；相同价格按原测评编号排列，不表示性能或综合性价比排序。
+本次读取的是人民币月付方案，折合月价等于当月实付；不推断未展示的年付最低价。每站取已展示方案中月付最低档，按价格升序，同价保留原编号顺序，非性能或综合性价比评级。线路和AI支持为页面声明，没有独立实测。未确认备用地址时如实标注，已收录链接也不冒称独立备用官网。手机可横向滑动表格查看全部六列。
 
-|价格序|测评编号|实付/月|额度/月|
-|---|---|---|---|
-|1|[测评12](#review-12)|¥9.03|140GB|
-|2|[测评19](#review-19)|¥9.04|141GB|
-|3|[测评10](#review-10)|¥9.08|141GB|
-|4|[测评17](#review-17)|¥9.09|141GB|
-|5|[测评13](#review-13)|¥9.19|142GB|
-|6|[测评11](#review-11)|¥9.24|143GB|
-|7|[测评18](#review-18)|¥9.25|143GB|
-|8|[测评16](#review-16)|¥9.30|143GB|
-|9|[测评14](#review-14)|¥9.35|144GB|
-|10|[测评15](#review-15)|¥9.51|145GB|
-|11|[测评01](#review-1)|¥10.02|150GB|
-|12|[测评02](#review-2)|¥10.18|152GB|
-|13|[测评03](#review-3)|¥10.34|154GB|
-|14|[测评04](#review-4)|¥10.50|155GB|
-|15|[测评07](#review-7)|¥10.61|156GB|
-|16|[测评05](#review-5)|¥10.66|157GB|
-|17|[测评08](#review-8)|¥10.77|158GB|
-|18|[测评06](#review-6)|¥10.82|158GB|
-|19|[测评20](#review-20)|¥10.84|159GB|
-|20|[测评09](#review-9)|¥10.93|159GB|
+|排名|机场名称|最低价格（折合月付）|线路特色|AI支持情况|官网备用地址|
+|---|---|---|---|---|---|
+|1|[ARK](#review-12)|¥9.03/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://ark.arkguanwang.com/)|
+|2|[GalaxyCloud](#review-19)|¥9.04/月（月付）|IEPL（页面声明）|待核实|备用待核实；[已收录入口](https://galaxycloud.galaxycloudguanwang.com/)|
+|3|[咸鱼](#review-10)|¥9.08/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.xianyuguanwang.com/)|
+|4|[小旋风](#review-17)|¥9.09/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.xiaoxuanfenggw.com/)|
+|5|[V2Tun](#review-13)|¥9.19/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://v2tun.v2tunguanwang.com/)|
+|6|[TotoroCloud](#review-11)|¥9.24/月（月付）|IEPL（页面声明）|待核实|备用待核实；[已收录入口](https://totorocloud.totorocloudguanwang.com/)|
+|7|[FlashFox](#review-18)|¥9.25/月（月付）|IEPL（页面声明）|待核实|备用待核实；[已收录入口](https://flashfox.flashfoxguanwang.com/)|
+|8|[Cylink](#review-16)|¥9.30/月（月付）|IEPL（页面声明）|待核实|备用待核实；[已收录入口](https://cylink.cylinkguanwang.com/)|
+|9|[酷酷云](#review-14)|¥9.35/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.kukuyunguanwang.com/)|
+|10|[Nerwo](#review-15)|¥9.51/月（月付）|IEPL（页面声明）|待核实|备用待核实；[已收录入口](https://nerwo.nerwoguanwang.com/)|
+|11|[Kuromis库洛米](#review-1)|¥10.02/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.kuromisguanwang.com/)|
+|12|[CreamData奶油](#review-2)|¥10.18/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.creamdataguanwang.com/)|
+|13|[LinkCube绿叶](#review-3)|¥10.34/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.linkcubeguanwang.com/)|
+|14|[FlyingBird飞鸟](#review-4)|¥10.50/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.flyingbirdguanwang.com/)|
+|15|[一云梯](#review-7)|¥10.61/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.yiyuntiguanwang.com/)|
+|16|[ssrcloud薯条](#review-5)|¥10.66/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.ssrcloudguanwang.com/)|
+|17|[泡芙云](#review-8)|¥10.77/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.paofuyunguanwang.com/)|
+|18|[快连](#review-6)|¥10.82/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://fastlink.kuailianguanwang.com/)|
+|19|[FliggyCloud](#review-20)|¥10.84/月（月付）|IEPL（页面声明）|待核实|备用待核实；[已收录入口](https://fliggycloud.fliggycloudgw.com/)|
+|20|[青云梯](#review-9)|¥10.93/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.qingyuntiguanwang.com/)|
 
 <a id="site-directory"></a>
 ## 推荐机场入口
